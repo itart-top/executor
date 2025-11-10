@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/itart-top/executor/executor"
+	"github.com/itart-top/executor"
 	"github.com/stretchr/testify/assert"
 )
 
